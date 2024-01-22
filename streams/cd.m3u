@@ -45,7 +45,7 @@ https://tv2.isi-broadcast.tech/ISI-BROADCAST/HDLIVE1/index.m3u8
 http://51.254.199.122:8080/PSTV/index.m3u8
 #EXTINF:-1 tvg-id="RLPROTV.cd",RL PRO TV (480p) [Not 24/7]
 https://rlprotv.vedge.infomaniak.com/livecast/ik:rlprotv/manifest.m3u8
-#EXTINF:-1 tvg-id="RTNC.cd",RTNC HD (1080p)
+#EXTINF:-1 tvg-id="RTNC.cd" tvg-name="RTNC.cd" tvg-language="French" tvg-logo="https://i.postimg.cc/sgqjrdPV/1652356774524.jpg" tvg-country="CD" tvg-url="" group-title="Info",RTNC HD (1080p)
 http://usloft3608.serverprofi24.com/rtnc/playlist.m3u8
 #EXTINF:-1 tvg-id="SSMTV.cd",SSM TV (576p)
 https://tv2.isi-broadcast.tech/ISI-BROADCAST/SSM/index.m3u8
