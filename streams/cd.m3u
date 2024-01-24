@@ -27,10 +27,10 @@ https://cdn.mycloudstream.io/hls/live/broadcast/mgshes9q/index.m3u8
 https://stream.telepack.net/evitv/index.m3u8
 #EXTINF:-1 tvg-id="GeopolisTV.cd" tvg-name="GeopolisTV.cd" tvg-language="French" tvg-logo="https://od.lk/s/M18yODU5ODc2NDhf/geopolis.png" tvg-country="CD" tvg-url="" group-title="Info" tvg-chno="13",Géopolis TV
 http://85.234.131.234:8080/ISI-BROADCAST/GeopoliceTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="KingTV.cd" tvg-name="KingTV.cd" tvg-language="French" tvg-logo="https://od.lk/s/M18yOTE1MjUwMzFf/kingrdc.jpg" vg-country="CD" tvg-url="" group-title="Info" tvg-chno="14",King TV (544p)
+#EXTINF:-1 tvg-id="KingTV.cd" tvg-name="KingTV.cd" tvg-language="French" tvg-logo="https://od.lk/s/M18yOTE1MjUwMzFf/kingrdc.jpg" vg-country="CD" tvg-url="" group-title="Info" tvg-chno="14",King TV (720p)
 http://89.163.146.99/KING_TV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="MadiTV.cd",Madi TV (576p)
-https://tv1.isi-broadcast.tech/MADI-TV/index.m3u8
+#EXTINF:-1 tvg-id="MadiTV.cd" tvg-name="MadiTV.cd" tvg-language="French" tvg-logo="https://od.lk/s/M18yODY2NzUyNDBf/madi.jpg" vg-country="CD" tvg-url="" group-title="Info" tvg-chno="15",Madi TV (576p)
+http://89.163.146.99/MADI-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="MetanoiaTV.cd",Metanoia TV (720p)
 https://tv1.isi-broadcast.tech/METANOIA-STREAM1/index.m3u8
 #EXTINF:-1 tvg-id="MikubaTV.cd",Mikuba TV (480p) [Not 24/7]
