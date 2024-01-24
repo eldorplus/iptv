@@ -37,8 +37,8 @@ https://tv.tnf-rdc.com/METANOIA-STREAM1/index.m3u8
 http://51.254.199.122:8080/MIKUBATV/index.m3u8
 #EXTINF:-1 tvg-id="MishapiVoiceTV.cd" tvg-name="MishapiVoiceTV.cd" tvg-language="French" tvg-logo="https://od.lk/s/M18yNjkwMDE5ODdf/mishapi.png" vg-country="CD" tvg-url="" group-title="Chrétienne" tvg-chno="17",Mishapi Voice TV (1080p)
 http://51.254.199.122:8080/MISHAPI/index.m3u8
-#EXTINF:-1 tvg-id="MoliereTV.cd",Molière TV (576p) [Not 24/7]
-https://tv1.isi-broadcast.tech/MOLIERETV-STREAM1/index.m3u8
+#EXTINF:-1 tvg-id="MoliereTV.cd" tvg-name="MoliereTV.cd" tvg-language="French" tvg-logo="https://od.lk/s/M18yNDU0NzA5MDlf/moliere.jpg" vg-country="CD" tvg-url="" group-title="Info" tvg-chno="18",Molière TV (576p)
+"http://51.254.199.122:8080/MoliereTV/index.m3u8
 #EXTINF:-1 tvg-id="NumericaTV.cd",Numerica TV (1080p)
 http://89.163.146.99:80/NUMERICA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ParoleEternelleTV.cd",Parole Éternelle TV (1080p)
