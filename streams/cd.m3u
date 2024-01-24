@@ -19,8 +19,8 @@ http://89.163.146.99/CN-TV_CANAL/index.m3u8
 https://radio.congoplanet.com/Congo_Planet_TV.sdp/Congo_Planet_TV/playlist.m3u8
 #EXTINF:-1 tvg-id="",Congo Planet Télévision Pop (1080p) [Not 24/7]
 https://radio.congoplanet.com/Congo_Planet_TV_Pop.sdp/Congo_Planet_TV_Pop/playlist.m3u8
-#EXTINF:-1 tvg-id="DigitalCongoTV.cd",Digital Congo TV (480p)
-https://tv2.isi-broadcast.tech/ISI-BROADCAST/DIGITAL-TV/index.m3u8
+#EXTINF:-1 tvg-id="DigitalCongoTV.cd" tvg-name="DigitalCongoTV.cd" tvg-language="French" tvg-logo=https://od.lk/s/M18yNzAxNzU1MjBf/digitalkongo" tvg-country="CD" tvg-url="" group-title="Divertissement" tvg-chno="10",Digital Congo TV
+http://85.234.131.234:8080/ISI-BROADCAST/DIGITAL-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="EGGPROTV.cd" tvg-language="French" tvg-logo="https://od.lk/s/M18yODQ1NDA2NzJf/eggpro.jpg" tvg-country="CD" tvg-url="" group-title="Info" tvg-chno="11",EGG PRO TV (720p)
 https://cdn.mycloudstream.io/hls/live/broadcast/mgshes9q/index.m3u8
 #EXTINF:-1 tvg-id="EVITV.cd" tvg-language="French" tvg-logo="https://od.lk/s/M18yNjQ4MjA1MjBf/evitv.png" tvg-country="CD" tvg-url="" group-title="Info" tvg-chno="12",EVI TV (720p)
