@@ -7,7 +7,7 @@ http://51.254.199.122:8080/rtnc1/index.m3u8
 http://89.163.146.99/10eme-tv/index.m3u8
 #EXTINF:-1 tvg-id="AmenTVSat.cd" tvg-name="AmenTVSat.cd" tvg-language="French" tvg-logo="https://od.lk/s/M18yODQ2ODkyOTlf/Amen.jpeg" tvg-country="CD" tvg-url="" group-title="Info" tvg-chno="4",Amen TV Sat (1080p)
 http://89.163.146.99/AMEN_TV/index.m3u8
-#EXTINF:-1 tvg-id="BOneTV.cd",B-One TV (480p)
+#EXTINF:-1 tvg-id="BOneTV.cd" tvg-name="BOneTV.cd" tvg-language="French" tvg-logo="https://od.lk/s/M18yNDU0NzUwMTJf/B_One.png" tvg-country="CD" tvg-url="" group-title="Info" tvg-chno="5",B-One TV (480p)
 https://tv2.isi-broadcast.tech/ISI-BROADCAST/Bone-tv/index.m3u8
 #EXTINF:-1 tvg-id="BossBrothersTV.cd" tvg-name="BossBrothersTV.cd" tvg-language="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQql4D9wYvXjE1pxnQz_JvdznoJplG_ylrQNg&usqp=CAU.jpg" tvg-country="CD" tvg-url="" group-title="Info" tvg-chno="5",Boss Brothers TV
 http://51.254.199.122:8080/bossbrothersTV/index.m3u8
