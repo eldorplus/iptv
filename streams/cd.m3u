@@ -23,10 +23,10 @@ https://radio.congoplanet.com/Congo_Planet_TV_Pop.sdp/Congo_Planet_TV_Pop/playli
 http://85.234.131.234:8080/ISI-BROADCAST/DIGITAL-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="EGGPROTV.cd" tvg-language="French" tvg-logo="https://od.lk/s/M18yODQ1NDA2NzJf/eggpro.jpg" tvg-country="CD" tvg-url="" group-title="Info" tvg-chno="11",EGG PRO TV (720p)
 https://cdn.mycloudstream.io/hls/live/broadcast/mgshes9q/index.m3u8
-#EXTINF:-1 tvg-id="EVITV.cd" tvg-language="French" tvg-logo="https://od.lk/s/M18yNjQ4MjA1MjBf/evitv.png" tvg-country="CD" tvg-url="" group-title="Info" tvg-chno="12",EVI TV (720p)
+#EXTINF:-1 tvg-id="EVITV.cd" tvg-name="EVITV.cd" tvg-language="French" tvg-logo="https://od.lk/s/M18yNjQ4MjA1MjBf/evitv.png" tvg-country="CD" tvg-url="" group-title="Info" tvg-chno="12",EVI TV (720p)
 https://stream.telepack.net/evitv/index.m3u8
-#EXTINF:-1 tvg-id="GeopolisTV.cd",Géopolis TV (240p)
-https://tv2.isi-broadcast.tech/ISI-BROADCAST/GeopoliceTV/index.m3u8
+#EXTINF:-1 tvg-id="GeopolisTV.cd" tvg-name="GeopolisTV.cd" tvg-language="French" tvg-logo="https://od.lk/s/M18yODU5ODc2NDhf/geopolis.png" tvg-country="CD" tvg-url="" group-title="Info" tvg-chno="13",Géopolis TV
+http://85.234.131.234:8080/ISI-BROADCAST/GeopoliceTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="KingTV.cd",King TV (544p)
 https://tv1.isi-broadcast.tech/KING_TV/index.m3u8
 #EXTINF:-1 tvg-id="MadiTV.cd",Madi TV (576p)
