@@ -9,10 +9,10 @@ http://89.163.146.99/10eme-tv/index.m3u8
 http://89.163.146.99/AMEN_TV/index.m3u8
 #EXTINF:-1 tvg-id="BOneTV.cd" tvg-name="BOneTV.cd" tvg-language="French" tvg-logo="https://od.lk/s/M18yNDU0NzUwMTJf/B_One.png" tvg-country="CD" tvg-url="" group-title="Info" tvg-chno="5",B-One TV (480p)
 http://41.215.252.18:8080/live/b_one_enc/chunks.m3u8
-#EXTINF:-1 tvg-id="BossBrothersTV.cd" tvg-name="BossBrothersTV.cd" tvg-language="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQql4D9wYvXjE1pxnQz_JvdznoJplG_ylrQNg&usqp=CAU.jpg" tvg-country="CD" tvg-url="" group-title="Info" tvg-chno="5",Boss Brothers TV
+#EXTINF:-1 tvg-id="BossBrothersTV.cd" tvg-name="BossBrothersTV.cd" tvg-language="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQql4D9wYvXjE1pxnQz_JvdznoJplG_ylrQNg&usqp=CAU.jpg" tvg-country="CD" tvg-url="" group-title="Info" tvg-chno="6",Boss Brothers TV
 http://51.254.199.122:8080/bossbrothersTV/index.m3u8
-#EXTINF:-1 tvg-id="CCPVTelevision.cd",CCPV TV (1080p)
-https://tv1.isi-broadcast.tech/CCPV-TV/index.m3u8
+#EXTINF:-1 tvg-id="CCPVTelevision.cd" tvg-name="CCPVTelevision.cd" tvg-language="French" tvg-logo="https://od.lk/s/M18yNjQ1ODkyOTlf/ccpv.jpg" tvg-country="CD" tvg-url="" group-title="Chrétienne" tvg-chno="6",CCPV TV (1080p)
+http://89.163.146.99/CCPV-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="CNTV.cd",CNTV Canal Numérique (720p)
 https://tv1.isi-broadcast.tech/CN-TV_CANAL/index.m3u8
 #EXTINF:-1 tvg-id="CongoPlanetTelevision.cd",Congo Planet Télévision (1080p) [Not 24/7]
