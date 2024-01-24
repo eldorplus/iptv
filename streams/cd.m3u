@@ -31,8 +31,8 @@ http://85.234.131.234:8080/ISI-BROADCAST/GeopoliceTV/tracks-v1a1/mono.m3u8
 http://89.163.146.99/KING_TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="MadiTV.cd" tvg-name="MadiTV.cd" tvg-language="French" tvg-logo="https://od.lk/s/M18yODY2NzUyNDBf/madi.jpg" vg-country="CD" tvg-url="" group-title="Info" tvg-chno="15",Madi TV (576p)
 http://89.163.146.99/MADI-TV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="MetanoiaTV.cd",Metanoia TV (720p)
-https://tv1.isi-broadcast.tech/METANOIA-STREAM1/index.m3u8
+#EXTINF:-1 tvg-id="MetanoiaTV.cd" tvg-name="MetanoiaTV.cd" tvg-language="French" tvg-logo="https://od.lk/s/M18yODU5ODc2NDdf/metanoia.png" vg-country="CD" tvg-url="" group-title="Chrétienne" tvg-chno="16",Metanoia TV (720p)
+https://tv.tnf-rdc.com/METANOIA-STREAM1/index.m3u8
 #EXTINF:-1 tvg-id="MikubaTV.cd",Mikuba TV (480p) [Not 24/7]
 http://51.254.199.122:8080/MIKUBATV/index.m3u8
 #EXTINF:-1 tvg-id="MishapiVoiceTV.cd",Mishapi Voice TV (1080p)
