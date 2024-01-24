@@ -3,9 +3,9 @@
 http://usloft3608.serverprofi24.com/rtnc/playlist.m3u8
 #EXTINF:-1 tvg-id="RTNC.1.cd" tvg-name="RTNC.1.cd" tvg-language="French" tvg-logo="https://od.lk/s/M18yNzQwMDgxMTZf/rtncone.png" tvg-country="CD" tvg-url="" group-title="Info" tvg-chno="2",RTNC 1
 http://51.254.199.122:8080/rtnc1/index.m3u8
-#EXTINF:-1 tvg-id="10emeRueTV.cd" tvg-name="10emeRueTV.cd" tvg-language="French" tvg-logo="https://od.lk/s/M18yNzA4NTAyOTRf/dixiemerue.png",10'ème Rue TV HD
+#EXTINF:-1 tvg-id="10emeRueTV.cd" tvg-name="10emeRueTV.cd" tvg-language="French" tvg-logo="https://od.lk/s/M18yNzA4NTAyOTRf/dixiemerue.png" tvg-country="CD" tvg-url="" group-title="Info" tvg-chno="3",10'ème Rue TV HD
 http://89.163.146.99/10eme-tv/index.m3u8
-#EXTINF:-1 tvg-id="AmenTVSat.cd",Amen TV Sat (1080p)
+#EXTINF:-1 tvg-id="AmenTVSat.cd" tvg-name="AmenTVSat.cd" tvg-language="French" tvg-logo="https://od.lk/s/M18yODQ2ODkyOTlf/Amen.jpeg" tvg-country="CD" tvg-url="" group-title="Info" tvg-chno="4",Amen TV Sat (1080p)
 http://89.163.146.99/AMEN_TV/index.m3u8
 #EXTINF:-1 tvg-id="BOneTV.cd",B-One TV (480p)
 https://tv2.isi-broadcast.tech/ISI-BROADCAST/Bone-tv/index.m3u8
