@@ -41,16 +41,14 @@ http://51.254.199.122:8080/MISHAPI/index.m3u8
 "http://51.254.199.122:8080/MoliereTV/index.m3u8
 #EXTINF:-1 tvg-id="NumericaTV.cd" tvg-name="NumericaTV.cd" tvg-language="French" tvg-logo="https://od.lk/s/M18yNzQ0MDgwMTVf/numericas.jpg" vg-country="CD" tvg-url="" group-title="Info" tvg-chno="19",Numerica TV HD
 http://89.163.146.99:80/NUMERICA/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ParoleEternelleTV.cd",Parole Éternelle TV (1080p)
+#EXTINF:-1 tvg-id="ParoleEternelleTV.cd" tvg-name="ParoleEternelleTV.cd" tvg-language="French" tvg-logo="https://i.postimg.cc/8k4LNmgx/327166739-585810066722488-7009467099262022511-n.jpg" vg-country="CD" tvg-url="" group-title="Chrétienne" tvg-chno="20",Parole Éternelle TV (1080p)
 https://tv2.isi-broadcast.tech/ISI-BROADCAST/PAROLETV/index.m3u8
-#EXTINF:-1 tvg-id="PSTVHD.cd",PSTV HD (480p)
-https://tv2.isi-broadcast.tech/ISI-BROADCAST/HDLIVE1/index.m3u8
-#EXTINF:-1 tvg-id="PSTVHD.cd",PSTV HD (480p) [Not 24/7]
+#EXTINF:-1 tvg-id="PSTVHD.cd" tvg-name="PSTVHD.cd" tvg-language="French" tvg-logo="https://od.lk/s/M18yNDU0NzA5MzFf/pstv.jpg" vg-country="CD" tvg-url="" group-title="Divertissement" tvg-chno="21",PSTV HD (480p)
 http://51.254.199.122:8080/PSTV/index.m3u8
-#EXTINF:-1 tvg-id="RLPROTV.cd",RL PRO TV (480p) [Not 24/7]
+#EXTINF:-1 tvg-id="RLPROTV.cd" tvg-name="RLPROTV.cd" tvg-language="French" tvg-logo="https://od.lk/s/M18yNjczMTIzNThf/rlprotv.png" vg-country="CD" tvg-url="" group-title="Divertissement" tvg-chno="22",RL PRO TV (480p) [Not 24/7]
 https://rlprotv.vedge.infomaniak.com/livecast/ik:rlprotv/manifest.m3u8
-#EXTINF:-1 tvg-id="SSMTV.cd",SSM TV (576p)
-https://tv2.isi-broadcast.tech/ISI-BROADCAST/SSM/index.m3u8
+#EXTINF:-1 tvg-id="SSMTV.cd" tvg-name="SSMTV.cd" tvg-language="French" tvg-logo="https://od.lk/s/M18yODU5ODc0OTlf/ssmtv.jpg" vg-country="CD" tvg-url="" group-title="Chrétienne" tvg-chno="23",SSM TV (576p)
+http://85.234.131.234:8080/ISI-BROADCAST/SSM/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Tele50.cd",Télé 50 (576p)
 https://tv2.isi-broadcast.tech/ISI-BROADCAST/TELE-50/index.m3u8
 #EXTINF:-1 tvg-id="TokomiWapiTV.cd",Tokomi Wapi TV (720p) [Not 24/7]
